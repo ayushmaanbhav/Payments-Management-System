@@ -16,7 +16,7 @@
 [![Last Commit](https://img.shields.io/github/last-commit/ayushmaanbhav/Payments-Management-System?style=flat-square)](https://github.com/ayushmaanbhav/Payments-Management-System/commits/master)
 
 <p align="center">
-  <strong>A production-ready, microservices-based payment processing system featuring double-entry bookkeeping, idempotent transactions, and extensible payment gateway integrations.</strong>
+  <strong>A production-tested, microservices-based payment processing system featuring double-entry bookkeeping, idempotent transactions, and extensible payment gateway integrations.</strong>
 </p>
 
 [Features](#-features) •
